@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="StockExchange@localhost" uuid="72f0c037-8a24-4532-949e-65cd98e3c300">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <first-sync>true</first-sync>
+      <user-name>stock_user</user-name>
+    </data-source>
+  </component>
+</project>
