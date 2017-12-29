@@ -66,7 +66,7 @@ public class LogUtil {
             List<Account> accounts = accountService.listAll();
             for (Account account : accounts ) {
                 bw.write("----- CONTA: "+ account.getAccountId()+ " | " + account.getEmail() + " ----- \n");
-                bw.write("SALDO FINAL: " +  String.format("%.2f",account.getValue()) + "\n\n" ) ;
+                bw.write("SALDO FINAL: R$" +  String.format("%.2f",account.getValue()) + "\n\n" ) ;
                 //Envio de E-mail
                 emailUtil.sendMail(account.getEmail(), emailBody.toString());
             }

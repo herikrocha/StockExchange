@@ -1,119 +1,327 @@
 ::::::::::::::::RELATÓRIO DE NEGOCIAÇÕES::::::::::::::::
 
-..:TOTAL DE NEGOCIAÇÕES REALIZADAS:.. 14
+..:TOTAL DE NEGOCIAÇÕES REALIZADAS:.. 40
 
------ NEGOCIAÇÃO: 1265 ----- 
+----- NEGOCIAÇÃO: 1423 ----- 
+Empresa: Intel
+Operação: VENDA
+Valor da ação: 10,75
+Valor Negociado: R$15429,06
+Quantidade: 1435,48 ações 
+Data/Hora: 2017-12-29 04:06:19
+
+----- NEGOCIAÇÃO: 1425 ----- 
 Empresa: Intel
 Operação: COMPRA
-Valor da ação: 10,40
-Valor Negociado: R$10000,00
-Quantidade: 961,12 ações 
-Data/Hora: 2017-12-29 03:09:53
+Valor da ação: 10,08
+Valor Negociado: R$15429,06
+Quantidade: 1531,18 ações 
+Data/Hora: 2017-12-29 04:06:24
 
------ NEGOCIAÇÃO: 1267 ----- 
+----- NEGOCIAÇÃO: 1427 ----- 
+Empresa: Intel
+Operação: VENDA
+Valor da ação: 10,75
+Valor Negociado: R$16454,92
+Quantidade: 1531,18 ações 
+Data/Hora: 2017-12-29 04:06:29
+
+----- NEGOCIAÇÃO: 1430 ----- 
+Empresa: Intel
+Operação: COMPRA
+Valor da ação: 10,49
+Valor Negociado: R$16454,92
+Quantidade: 1568,72 ações 
+Data/Hora: 2017-12-29 04:06:39
+
+----- NEGOCIAÇÃO: 1432 ----- 
+Empresa: Intel
+Operação: VENDA
+Valor da ação: 10,84
+Valor Negociado: R$17004,65
+Quantidade: 1568,72 ações 
+Data/Hora: 2017-12-29 04:06:44
+
+----- NEGOCIAÇÃO: 1434 ----- 
+Empresa: Intel
+Operação: COMPRA
+Valor da ação: 10,76
+Valor Negociado: R$17004,65
+Quantidade: 1579,94 ações 
+Data/Hora: 2017-12-29 04:06:49
+
+----- NEGOCIAÇÃO: 1443 ----- 
 Empresa: Intel
 Operação: VENDA
 Valor da ação: 10,99
-Valor Negociado: R$10565,24
-Quantidade: 961,12 ações 
-Data/Hora: 2017-12-29 03:09:54
+Valor Negociado: R$17358,01
+Quantidade: 1579,94 ações 
+Data/Hora: 2017-12-29 04:07:29
 
------ NEGOCIAÇÃO: 1269 ----- 
+----- NEGOCIAÇÃO: 1445 ----- 
 Empresa: Intel
 Operação: COMPRA
-Valor da ação: 10,03
-Valor Negociado: R$10565,24
-Quantidade: 1053,87 ações 
-Data/Hora: 2017-12-29 03:09:55
+Valor da ação: 10,63
+Valor Negociado: R$17358,01
+Quantidade: 1633,15 ações 
+Data/Hora: 2017-12-29 04:07:34
 
------ NEGOCIAÇÃO: 1271 ----- 
+----- NEGOCIAÇÃO: 1447 ----- 
 Empresa: Intel
 Operação: VENDA
-Valor da ação: 10,98
-Valor Negociado: R$11572,25
-Quantidade: 1053,87 ações 
-Data/Hora: 2017-12-29 03:09:56
+Valor da ação: 10,94
+Valor Negociado: R$17870,00
+Quantidade: 1633,15 ações 
+Data/Hora: 2017-12-29 04:07:39
 
------ NEGOCIAÇÃO: 1273 ----- 
+----- NEGOCIAÇÃO: 1449 ----- 
 Empresa: Intel
 Operação: COMPRA
-Valor da ação: 10,47
-Valor Negociado: R$11572,25
-Quantidade: 1105,58 ações 
-Data/Hora: 2017-12-29 03:09:57
+Valor da ação: 10,72
+Valor Negociado: R$17870,00
+Quantidade: 1667,45 ações 
+Data/Hora: 2017-12-29 04:07:44
 
------ NEGOCIAÇÃO: 1275 ----- 
+----- NEGOCIAÇÃO: 1455 ----- 
 Empresa: Intel
 Operação: VENDA
-Valor da ação: 10,99
-Valor Negociado: R$12151,00
-Quantidade: 1105,58 ações 
-Data/Hora: 2017-12-29 03:09:58
+Valor da ação: 10,91
+Valor Negociado: R$18190,95
+Quantidade: 1667,45 ações 
+Data/Hora: 2017-12-29 04:08:09
 
------ NEGOCIAÇÃO: 1277 ----- 
+----- NEGOCIAÇÃO: 1457 ----- 
 Empresa: Intel
 Operação: COMPRA
-Valor da ação: 10,61
-Valor Negociado: R$12151,00
-Quantidade: 1145,06 ações 
-Data/Hora: 2017-12-29 03:09:59
+Valor da ação: 10,01
+Valor Negociado: R$18190,95
+Quantidade: 1817,57 ações 
+Data/Hora: 2017-12-29 04:08:14
 
------ NEGOCIAÇÃO: 1279 ----- 
+----- NEGOCIAÇÃO: 1459 ----- 
 Empresa: Intel
 Operação: VENDA
-Valor da ação: 10,98
-Valor Negociado: R$12576,51
-Quantidade: 1145,06 ações 
-Data/Hora: 2017-12-29 03:10:00
-
------ NEGOCIAÇÃO: 1281 ----- 
-Empresa: Intel
-Operação: COMPRA
-Valor da ação: 10,16
-Valor Negociado: R$12576,51
-Quantidade: 1238,04 ações 
-Data/Hora: 2017-12-29 03:10:01
-
------ NEGOCIAÇÃO: 1283 ----- 
-Empresa: Intel
-Operação: VENDA
-Valor da ação: 10,60
-Valor Negociado: R$13117,81
-Quantidade: 1238,04 ações 
-Data/Hora: 2017-12-29 03:10:02
-
------ NEGOCIAÇÃO: 1286 ----- 
-Empresa: Intel
-Operação: COMPRA
-Valor da ação: 10,37
-Valor Negociado: R$13117,81
-Quantidade: 1264,49 ações 
-Data/Hora: 2017-12-29 03:10:04
-
------ NEGOCIAÇÃO: 1288 ----- 
-Empresa: Intel
-Operação: VENDA
-Valor da ação: 10,60
-Valor Negociado: R$13400,77
-Quantidade: 1264,49 ações 
-Data/Hora: 2017-12-29 03:10:05
-
------ NEGOCIAÇÃO: 1290 ----- 
-Empresa: Intel
-Operação: COMPRA
 Valor da ação: 10,12
-Valor Negociado: R$13400,77
-Quantidade: 1323,94 ações 
-Data/Hora: 2017-12-29 03:10:06
+Valor Negociado: R$18386,11
+Quantidade: 1817,57 ações 
+Data/Hora: 2017-12-29 04:08:19
 
------ NEGOCIAÇÃO: 1292 ----- 
+----- NEGOCIAÇÃO: 1332 ----- 
+Empresa: Intel
+Operação: COMPRA
+Valor da ação: 10,04
+Valor Negociado: R$10000,00
+Quantidade: 996,10 ações 
+Data/Hora: 2017-12-29 04:00:59
+
+----- NEGOCIAÇÃO: 1334 ----- 
 Empresa: Intel
 Operação: VENDA
-Valor da ação: 10,16
-Valor Negociado: R$13457,45
-Quantidade: 1323,94 ações 
-Data/Hora: 2017-12-29 03:10:07
+Valor da ação: 10,90
+Valor Negociado: R$10856,38
+Quantidade: 996,10 ações 
+Data/Hora: 2017-12-29 04:01:04
 
------ CONTA: 1263 | contato@stockexchange.com ----- 
-SALDO FINAL: 13457,45
+----- NEGOCIAÇÃO: 1336 ----- 
+Empresa: Intel
+Operação: COMPRA
+Valor da ação: 10,83
+Valor Negociado: R$10856,38
+Quantidade: 1002,18 ações 
+Data/Hora: 2017-12-29 04:01:09
+
+----- NEGOCIAÇÃO: 1342 ----- 
+Empresa: Intel
+Operação: VENDA
+Valor da ação: 10,88
+Valor Negociado: R$10907,30
+Quantidade: 1002,18 ações 
+Data/Hora: 2017-12-29 04:01:34
+
+----- NEGOCIAÇÃO: 1344 ----- 
+Empresa: Intel
+Operação: COMPRA
+Valor da ação: 10,62
+Valor Negociado: R$10907,30
+Quantidade: 1027,23 ações 
+Data/Hora: 2017-12-29 04:01:39
+
+----- NEGOCIAÇÃO: 1349 ----- 
+Empresa: Intel
+Operação: VENDA
+Valor da ação: 10,63
+Valor Negociado: R$10923,59
+Quantidade: 1027,23 ações 
+Data/Hora: 2017-12-29 04:01:59
+
+----- NEGOCIAÇÃO: 1353 ----- 
+Empresa: Intel
+Operação: COMPRA
+Valor da ação: 10,58
+Valor Negociado: R$10923,59
+Quantidade: 1032,86 ações 
+Data/Hora: 2017-12-29 04:02:14
+
+----- NEGOCIAÇÃO: 1355 ----- 
+Empresa: Intel
+Operação: VENDA
+Valor da ação: 10,94
+Valor Negociado: R$11299,93
+Quantidade: 1032,86 ações 
+Data/Hora: 2017-12-29 04:02:19
+
+----- NEGOCIAÇÃO: 1357 ----- 
+Empresa: Intel
+Operação: COMPRA
+Valor da ação: 10,59
+Valor Negociado: R$11299,93
+Quantidade: 1067,47 ações 
+Data/Hora: 2017-12-29 04:02:24
+
+----- NEGOCIAÇÃO: 1362 ----- 
+Empresa: Intel
+Operação: VENDA
+Valor da ação: 10,65
+Valor Negociado: R$11369,94
+Quantidade: 1067,47 ações 
+Data/Hora: 2017-12-29 04:02:44
+
+----- NEGOCIAÇÃO: 1364 ----- 
+Empresa: Intel
+Operação: COMPRA
+Valor da ação: 10,20
+Valor Negociado: R$11369,94
+Quantidade: 1114,97 ações 
+Data/Hora: 2017-12-29 04:02:49
+
+----- NEGOCIAÇÃO: 1367 ----- 
+Empresa: Intel
+Operação: VENDA
+Valor da ação: 10,70
+Valor Negociado: R$11934,53
+Quantidade: 1114,97 ações 
+Data/Hora: 2017-12-29 04:02:59
+
+----- NEGOCIAÇÃO: 1370 ----- 
+Empresa: Intel
+Operação: COMPRA
+Valor da ação: 10,30
+Valor Negociado: R$11934,53
+Quantidade: 1158,41 ações 
+Data/Hora: 2017-12-29 04:03:09
+
+----- NEGOCIAÇÃO: 1372 ----- 
+Empresa: Intel
+Operação: VENDA
+Valor da ação: 10,98
+Valor Negociado: R$12721,09
+Quantidade: 1158,41 ações 
+Data/Hora: 2017-12-29 04:03:14
+
+----- NEGOCIAÇÃO: 1374 ----- 
+Empresa: Intel
+Operação: COMPRA
+Valor da ação: 10,62
+Valor Negociado: R$12721,09
+Quantidade: 1198,31 ações 
+Data/Hora: 2017-12-29 04:03:19
+
+----- NEGOCIAÇÃO: 1379 ----- 
+Empresa: Intel
+Operação: VENDA
+Valor da ação: 10,75
+Valor Negociado: R$12877,84
+Quantidade: 1198,31 ações 
+Data/Hora: 2017-12-29 04:03:39
+
+----- NEGOCIAÇÃO: 1381 ----- 
+Empresa: Intel
+Operação: COMPRA
+Valor da ação: 10,39
+Valor Negociado: R$12877,84
+Quantidade: 1239,17 ações 
+Data/Hora: 2017-12-29 04:03:44
+
+----- NEGOCIAÇÃO: 1383 ----- 
+Empresa: Intel
+Operação: VENDA
+Valor da ação: 10,67
+Valor Negociado: R$13224,85
+Quantidade: 1239,17 ações 
+Data/Hora: 2017-12-29 04:03:49
+
+----- NEGOCIAÇÃO: 1387 ----- 
+Empresa: Intel
+Operação: COMPRA
+Valor da ação: 10,19
+Valor Negociado: R$13224,85
+Quantidade: 1298,33 ações 
+Data/Hora: 2017-12-29 04:04:04
+
+----- NEGOCIAÇÃO: 1389 ----- 
+Empresa: Intel
+Operação: VENDA
+Valor da ação: 10,50
+Valor Negociado: R$13627,92
+Quantidade: 1298,33 ações 
+Data/Hora: 2017-12-29 04:04:09
+
+----- NEGOCIAÇÃO: 1395 ----- 
+Empresa: Intel
+Operação: COMPRA
+Valor da ação: 10,21
+Valor Negociado: R$13627,92
+Quantidade: 1335,41 ações 
+Data/Hora: 2017-12-29 04:04:34
+
+----- NEGOCIAÇÃO: 1399 ----- 
+Empresa: Intel
+Operação: VENDA
+Valor da ação: 10,48
+Valor Negociado: R$13996,43
+Quantidade: 1335,41 ações 
+Data/Hora: 2017-12-29 04:04:49
+
+----- NEGOCIAÇÃO: 1408 ----- 
+Empresa: Intel
+Operação: COMPRA
+Valor da ação: 10,27
+Valor Negociado: R$13996,43
+Quantidade: 1363,49 ações 
+Data/Hora: 2017-12-29 04:05:29
+
+----- NEGOCIAÇÃO: 1410 ----- 
+Empresa: Intel
+Operação: VENDA
+Valor da ação: 10,47
+Valor Negociado: R$14269,60
+Quantidade: 1363,49 ações 
+Data/Hora: 2017-12-29 04:05:34
+
+----- NEGOCIAÇÃO: 1413 ----- 
+Empresa: Intel
+Operação: COMPRA
+Valor da ação: 10,08
+Valor Negociado: R$14269,60
+Quantidade: 1415,99 ações 
+Data/Hora: 2017-12-29 04:05:44
+
+----- NEGOCIAÇÃO: 1415 ----- 
+Empresa: Intel
+Operação: VENDA
+Valor da ação: 10,66
+Valor Negociado: R$15094,35
+Quantidade: 1415,99 ações 
+Data/Hora: 2017-12-29 04:05:49
+
+----- NEGOCIAÇÃO: 1417 ----- 
+Empresa: Intel
+Operação: COMPRA
+Valor da ação: 10,52
+Valor Negociado: R$15094,35
+Quantidade: 1435,48 ações 
+Data/Hora: 2017-12-29 04:05:54
+
+----- CONTA: 1329 | contato@stockexchange.com ----- 
+SALDO FINAL: 18386,11
 
